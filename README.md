@@ -1,4 +1,4 @@
-# ✦ hi, im aethrr.
+# ✦ hi, im aethrr.  
 ## python coder and visual identity designer.
 
 # ✧ contact me.
