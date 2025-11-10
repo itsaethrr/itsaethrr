@@ -1,4 +1,5 @@
-# ✦ hi, im aethrr.<br>python coder and visual identity designer.
+<h1> ✦ hi, im aethrr.</h1>
+<h3 style="margin-top: -10px;">python coder and visual identity designer.</h3>
 
 # ✧ contact me.
 - [﹒discord](https://discord.com/users/1231936520529903667/)
