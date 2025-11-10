@@ -1,16 +1,15 @@
-## Hi there 👋
+# ✦ hi, im aethrr.
+## python coder and visual identity designer.
 
-<!--
-**itsaethrr/itsaethrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✧ contact me.
+- [﹒discord](https://discord.com/users/1231936520529903667/)
+- [﹒scratch](https://scratch.mit.edu/users/aethrr/)
+- [﹒email](mailto:itsaethrr@gmail.com)
 
-Here are some ideas to get you started:
+# ✧ languages i know.
+![languages](https://skillicons.dev/icons?i=python,html,css,js,java&theme=dark&perline=5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✧ apps i use.
+![apps](https://skillicons.dev/icons?i=figma,vscode,git,discord&theme=dark&perline=4)
+
+
