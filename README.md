@@ -2,8 +2,8 @@
 ### python coder and visual identity designer.
 
 ## ✧ contact me.
-[﹒discord](https://discord.com/users/1231936520529903667/)
-[﹒scratch](https://scratch.mit.edu/users/aethrr/)
+[﹒discord](https://discord.com/users/1231936520529903667/)<br>
+[﹒scratch](https://scratch.mit.edu/users/aethrr/)<br>
 [﹒email](mailto:itsaethrr@gmail.com)
 
 ## ✧ languages i know.
